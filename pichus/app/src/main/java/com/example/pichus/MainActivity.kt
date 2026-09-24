@@ -39,5 +39,5 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 
 open class Shape(x: Int, y: Int) {
-    val color:String = "blue"
+    val color:String = "purple"
 }
