@@ -1,11 +1,11 @@
 # pichus
 
 Present members:
-Prisha Sathya
-Mokshada Seeballuck
-Carlin Canlas
+Prisha Sathya,
+Mokshada Seeballuck,
+Carlin Canlas,
 Kundan Kumar Guntur
 
 Absent members:
-Lesley Yee
+Lesley Yee,
 Keon Nurse
