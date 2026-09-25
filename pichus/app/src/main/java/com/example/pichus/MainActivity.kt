@@ -38,7 +38,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 
-
-open class Shape(x: Int, y: Int, color: String = "blue") {
+open class Shape(x: Int, y: Int, color: String = "red") {
 }
 
